@@ -30,7 +30,7 @@ Revisa archivos y adminitración de plantilla. Realiza una descripción técnica
 
 Su amiga le pide algunos ajustes. Tú como eres un desarrollador responsable vas a realizar los cambios en un **Child Theme**.
 
-###En la página de inicio
+### En la página de inicio
 - Traducir textos de listado de propiedades en página de inicio.
 
 > Poner atención en esta línea de código en la plantilla. 
@@ -38,7 +38,7 @@ Su amiga le pide algunos ajustes. Tú como eres un desarrollador responsable vas
 
 ![Fontpage](http://blog.desafiolatam.com/wp-content/uploads/2017/07/Captura-de-pantalla-2017-07-19-a-las-11.45.45-a.m..png)
 
-###En la página individual de propiedades
+### En la página individual de propiedades
 - Agregar 3 nuevos campos con *Advanced Custom Fields* 
 	- Metros cuadrados con campo de texto
 	- Estacionamiento con checkbox donde la respuesta es Si/No
