@@ -28,7 +28,7 @@ Revisa archivos y adminitración de plantilla. Realiza una descripción técnica
 
 ## Ejercicio - Modificando plantilla
 
-Su amiga le pide algunos ajustes. Tú como eres un desarrollador responsable vas a realizar los cambios en un **Child Theme**.
+Su amiga le pide algunos ajustes. Tú como eres un@ desarrollador@ responsable vas a realizar los cambios en un **Child Theme**.
 
 ### En la página de inicio
 - Traducir textos de listado de propiedades en página de inicio.
