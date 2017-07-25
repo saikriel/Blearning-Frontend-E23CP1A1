@@ -1,4 +1,5 @@
 <section>
+<a href="http://desafiolatam.com"><img src="http://blog.desafiolatam.com/wp-content/uploads/2015/03/logo_latam_mini.png" width="100" style="float:right"></a>
 
 # Actividad Presencial 1 de Wordpress 2.
 
@@ -36,7 +37,10 @@ Su amiga le pide algunos ajustes. Tú como eres un@ desarrollador@ responsable v
 - Traducir textos de listado de propiedades en página de inicio.
 
 > Poner atención en esta línea de código en la plantilla. 
-```php <?php include (TEMPLATEPATH . '/lib/listhome.php'); ?>``` 
+
+```php
+<?php include (TEMPLATEPATH . '/lib/listhome.php'); ?>
+```
 
 ![Fontpage](http://blog.desafiolatam.com/wp-content/uploads/2017/07/Captura-de-pantalla-2017-07-19-a-las-11.45.45-a.m..png)
 
