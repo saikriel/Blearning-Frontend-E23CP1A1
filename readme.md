@@ -2,7 +2,7 @@
 
 # Actividad Presencial 1 de Wordpress 2.
 
-https://github.com/DesafioLatam/Blearning-Frontend-E23CP1A1
+<https://github.com/DesafioLatam/Blearning-Frontend-E23CP1A1>
 
 Usted tiene un amiga que quiere abrir su propia corredora de propiedades. Ella está desesperada porque le cobran muy caro para desarrollar un sitio web. Le pide ayuda a usted para construir el sitio, pero para reducir los costos le propone trabajar en base a una plantilla gratuita de Wordpress que encontró, su nombre es
 [Avenue](http://www.fabthemes.com/avenue/)
