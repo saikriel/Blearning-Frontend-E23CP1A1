@@ -38,7 +38,7 @@ Tú como eres un@ desarrollador@ responsable vas a realizar los cambios en un **
 
 > Algunas de las alternativas que tenemos son:  
 > a. Traer los archivos que faltan según la consola del inspector de elementos a la plantilla hija  
-> b. Modificar el código en la plantilla padre que provoca que al tener la plantilla hija activada, estos archivos no sean encontradas. ¿Ves algún ejemplo de función que no sea la más óptima y por eso me da problemas?
+> b. Modificar el código en la plantilla padre que provoca que al tener la plantilla hija activada, estos archivos no sean encontradas. ¿Ves algún ejemplo de función que no sea la más óptima y por eso me da problemas?  
 > c. No trabajar con Child Theme
  
 > La solución b. pareciera lo más "correcto", pero no tiene mucho sentido trabajar con Child theme si es que modificamos el Parent. A modo de ejercicio esta vez utilizaremos la opción a.
